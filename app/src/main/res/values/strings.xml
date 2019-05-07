@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit_RxJava</string>
+    <string name="title_activity_normal">NormalActivity</string>
+</resources>
